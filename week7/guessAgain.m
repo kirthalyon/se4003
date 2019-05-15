@@ -1,12 +1,12 @@
-% Guessing game.  
-% Example code for SE4003 week6
+% A numeric guessing game - part 1.
+% Example code for SE4003 week6/7
 % Topics illustrated:
 %   loops (while)
 %   conditions (if/else)
 %   random values (randi)
 %   keyboard input (input)
 %   output (fprintf)
-function guessNum
+function guessAgain
     % @exercise Add a variable to keep track of the number of guesses made
     % and initialize it to 0.
 
